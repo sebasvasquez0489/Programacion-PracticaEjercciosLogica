@@ -11,4 +11,4 @@ function tablaMultiplicacion(num1, num2) {
 }
 
 //EJECUCION DE LA FUNCION
-tablaMultiplicacion(5, 6);
+tablaMultiplicacion(5, 12);
